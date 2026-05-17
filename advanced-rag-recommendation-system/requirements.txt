@@ -1,0 +1,11 @@
+langchain
+openai
+faiss-cpu
+chromadb
+pandas
+numpy
+scikit-learn
+sentence-transformers
+tqdm
+jupyter
+python-dotenv
