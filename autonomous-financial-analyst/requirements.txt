@@ -1,0 +1,9 @@
+openai
+langchain
+pandas
+numpy
+matplotlib
+scikit-learn
+yfinance
+python-dotenv
+jupyter
